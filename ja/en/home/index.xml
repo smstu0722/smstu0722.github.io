@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test site</title>
+    <link>https://example.com/ja/en/home/</link>
+      <atom:link href="https://example.com/ja/en/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>test site</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>test site</title>
+      <link>https://example.com/ja/en/home/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ja/en/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ja/en/home/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABOUT US</title>
+      <link>https://example.com/ja/en/home/cont1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ja/en/home/cont1/</guid>
+      <description>&lt;p&gt;Add any content here - text, images, videos, galleries - and even HTML code!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>当研究室を死亡される皆様へ</title>
+      <link>https://example.com/ja/en/home/cont2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ja/en/home/cont2/</guid>
+      <description>&lt;p&gt;Add any content here - text, images, videos, galleries - and even HTML code!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
