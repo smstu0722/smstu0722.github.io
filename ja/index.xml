@@ -46,5 +46,25 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/ja/menu2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ja/menu2/</guid>
+      <description>&lt;h1 id=&#34;menu2&#34;&gt;Menu2&lt;/h1&gt;
+&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/ja/menu3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ja/menu3/</guid>
+      <description>&lt;h1 id=&#34;menu3&#34;&gt;Menu3&lt;/h1&gt;
+&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
