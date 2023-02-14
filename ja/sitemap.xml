@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/ja/en/home/slider/</loc>
+    <loc>https://smstu0722.github.io/ja/en/home/slider/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ja/en/home/cont1/</loc>
+    <loc>https://smstu0722.github.io/ja/en/home/cont1/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ja/en/home/cont2/</loc>
+    <loc>https://smstu0722.github.io/ja/en/home/cont2/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ja/</loc>
+    <loc>https://smstu0722.github.io/ja/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://smstu0722.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://smstu0722.github.io/ja/"
                 />
   </url><url>
-    <loc>https://example.com/ja/en/home/</loc>
+    <loc>https://smstu0722.github.io/ja/en/home/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ja/home/</loc>
+    <loc>https://smstu0722.github.io/ja/home/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ja/en/</loc>
+    <loc>https://smstu0722.github.io/ja/en/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ja/authors/</loc>
+    <loc>https://smstu0722.github.io/ja/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/authors/"
+                href="https://smstu0722.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/authors/"
+                href="https://smstu0722.github.io/ja/authors/"
                 />
   </url><url>
-    <loc>https://example.com/ja/categories/</loc>
+    <loc>https://smstu0722.github.io/ja/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://smstu0722.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/"
+                href="https://smstu0722.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>https://example.com/ja/publication_types/</loc>
+    <loc>https://smstu0722.github.io/ja/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/publication_types/"
+                href="https://smstu0722.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/publication_types/"
+                href="https://smstu0722.github.io/ja/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/ja/tags/</loc>
+    <loc>https://smstu0722.github.io/ja/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://smstu0722.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://smstu0722.github.io/ja/tags/"
                 />
   </url>
 </urlset>
