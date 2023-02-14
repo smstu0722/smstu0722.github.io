@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ens | test site</title>
-    <link>https://smstu0722.github.io/ja/en/</link>
-      <atom:link href="https://smstu0722.github.io/ja/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>/ja/en/</link>
+      <atom:link href="/ja/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Ens</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smstu0722.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ens</title>
-      <link>https://smstu0722.github.io/ja/en/</link>
+      <link>/ja/en/</link>
     </image>
     
   </channel>

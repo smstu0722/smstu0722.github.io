@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | test site</title>
-    <link>https://smstu0722.github.io/en/authors/</link>
-      <atom:link href="https://smstu0722.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/en/authors/</link>
+      <atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator>
     <image>
-      <url>https://smstu0722.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://smstu0722.github.io/en/authors/</link>
+      <link>/en/authors/</link>
     </image>
     
   </channel>

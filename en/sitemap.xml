@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smstu0722.github.io/en/authors/</loc>
+    <loc>/en/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/authors/"
+                href="/ja/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/authors/"
+                href="/en/authors/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/categories/"
+                href="/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/en/publication_types/</loc>
+    <loc>/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/publication_types/"
+                href="/ja/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/publication_types/"
+                href="/en/publication_types/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/tags/"
+                href="/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/en/</loc>
+    <loc>/en/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/"
+                href="/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/"
+                href="/en/"
                 />
   </url>
 </urlset>

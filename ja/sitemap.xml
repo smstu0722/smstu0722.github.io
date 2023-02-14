@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smstu0722.github.io/ja/en/home/slider/</loc>
+    <loc>/ja/en/home/slider/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smstu0722.github.io/ja/en/home/cont1/</loc>
+    <loc>/ja/en/home/cont1/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smstu0722.github.io/ja/en/home/cont2/</loc>
+    <loc>/ja/en/home/cont2/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smstu0722.github.io/ja/</loc>
+    <loc>/ja/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/"
+                href="/ja/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/ja/en/home/</loc>
+    <loc>/ja/en/home/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smstu0722.github.io/ja/home/</loc>
+    <loc>/ja/home/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smstu0722.github.io/ja/en/</loc>
+    <loc>/ja/en/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smstu0722.github.io/ja/authors/</loc>
+    <loc>/ja/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/authors/"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/authors/"
+                href="/ja/authors/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/ja/categories/</loc>
+    <loc>/ja/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/categories/"
+                href="/ja/categories/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/ja/publication_types/</loc>
+    <loc>/ja/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/publication_types/"
+                href="/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/publication_types/"
+                href="/ja/publication_types/"
                 />
   </url><url>
-    <loc>https://smstu0722.github.io/ja/tags/</loc>
+    <loc>/ja/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://smstu0722.github.io/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://smstu0722.github.io/ja/tags/"
+                href="/ja/tags/"
                 />
   </url>
 </urlset>
